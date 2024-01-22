@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+}
+
+.description {
+    width: 750px;
+    text-align: center;
+}
+
+.description>h1 {
+    text-transform: uppercase;
+}
+
+.description>p {
+    font-size: 17px;
+}
+
+.ingredients {
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.title-ingredients {
+    font-weight: 700;
+}
+
